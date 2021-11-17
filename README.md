@@ -1,5 +1,6 @@
 # SaltyChatSwitcher
-A simple tool to switch between SaltyChat v2 and SaltyChat v3 with just one click.  
+A simple tool to switch between SaltyChat v2 and SaltyChat v3 with just one click.
+The program currently only works on windows.  
   
 **The [Java Runtime Environment](https://www.java.com/en/download/) (version 8 or higher) is required.**
 
